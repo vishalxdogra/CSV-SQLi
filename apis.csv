@@ -1,2 +1,7 @@
-base_url,endpoint,method,params
-https://postman-echo.com,/get,GET,foo1|foo2
+endpoint,method,params
+/api/export/users,GET,id|sort
+/api/export/orders,GET,order_id
+/api/export/sales,GET,region|order_by
+/api/export/employees,GET,employee_id
+/api/export/payments,GET,account_id|from|to
+/api/export/logs,GET,level
