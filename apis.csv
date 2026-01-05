@@ -1,0 +1,2 @@
+base_url,endpoint,method,params
+https://postman-echo.com,/get,GET,foo1|foo2
